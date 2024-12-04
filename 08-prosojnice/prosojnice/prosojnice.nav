@@ -36,18 +36,22 @@
 \headcommand {\sectionentry {4}{Stolpci in slike}{21}{Stolpci in slike}{0}}
 \headcommand {\slideentry {4}{0}{1}{21/21}{}{0}}
 \headcommand {\beamer@framepages {21}{21}}
-\headcommand {\beamer@sectionpages {21}{21}}
-\headcommand {\beamer@subsectionpages {21}{21}}
-\headcommand {\sectionentry {5}{Paket \texttt {beamer} in tabele}{22}{Paket \texttt {beamer} in tabele}{0}}
-\headcommand {\slideentry {5}{0}{1}{22/22}{}{0}}
-\headcommand {\beamer@framepages {22}{22}}
-\headcommand {\beamer@sectionpages {22}{22}}
-\headcommand {\beamer@subsectionpages {22}{22}}
-\headcommand {\sectionentry {6}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{23}{Matematika, 2. del}{0}}
-\headcommand {\slideentry {6}{0}{1}{23/23}{}{0}}
-\headcommand {\beamer@framepages {23}{23}}
-\headcommand {\beamer@partpages {1}{23}}
-\headcommand {\beamer@subsectionpages {23}{23}}
-\headcommand {\beamer@sectionpages {23}{23}}
-\headcommand {\beamer@documentpages {23}}
-\headcommand {\gdef \inserttotalframenumber {9}}
+\headcommand {\slideentry {4}{0}{2}{22/28}{}{0}}
+\headcommand {\beamer@framepages {22}{28}}
+\headcommand {\slideentry {4}{0}{3}{29/35}{}{0}}
+\headcommand {\beamer@framepages {29}{35}}
+\headcommand {\beamer@sectionpages {21}{35}}
+\headcommand {\beamer@subsectionpages {21}{35}}
+\headcommand {\sectionentry {5}{Paket \texttt {beamer} in tabele}{36}{Paket \texttt {beamer} in tabele}{0}}
+\headcommand {\slideentry {5}{0}{1}{36/36}{}{0}}
+\headcommand {\beamer@framepages {36}{36}}
+\headcommand {\beamer@sectionpages {36}{36}}
+\headcommand {\beamer@subsectionpages {36}{36}}
+\headcommand {\sectionentry {6}{Matematika, 2. del\\\large {Zaporedja, algebra, grupe}}{37}{Matematika, 2. del}{0}}
+\headcommand {\slideentry {6}{0}{1}{37/37}{}{0}}
+\headcommand {\beamer@framepages {37}{37}}
+\headcommand {\beamer@partpages {1}{37}}
+\headcommand {\beamer@subsectionpages {37}{37}}
+\headcommand {\beamer@sectionpages {37}{37}}
+\headcommand {\beamer@documentpages {37}}
+\headcommand {\gdef \inserttotalframenumber {11}}
